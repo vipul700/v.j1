@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## E-DEITITIAN
 
 You can use the [editor on GitHub](https://github.com/vipul700/v.j1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
